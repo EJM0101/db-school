@@ -35,4 +35,4 @@ Compatible Render : une fois buildé (`npm run build`), le dossier `build/` peut
 
 ---
 
-© DB School - Université Évry Val d’Essonne - 2025
+© DB School - 2025
